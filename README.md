@@ -1,8 +1,14 @@
 # RPS CSS
 
-This project is for you to type along with the Introduction to CSS video. There are no automated test, so `rails grade` won't do anything.
+This project is for you to type along with the Introduction to CSS video. There are no automated tests, so `rails grade` won't do anything.
 
 Experiment!
+
+## Target
+
+Here is the target that we're aiming for in this project:
+
+[https://rps-css.matchthetarget.com/](https://rps-css.matchthetarget.com/)
 
 ## Standard Workflow
 
