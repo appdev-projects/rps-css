@@ -8,7 +8,7 @@ Experiment!
 
 Here is the target that we're aiming for in this project:
 
-[https://rps-css.matchthetarget.com/](https://rps-css.matchthetarget.com/)
+[https://rps-css.matchthetarget.com/rock](https://rps-css.matchthetarget.com/rock)
 
 ## Standard Workflow
 
